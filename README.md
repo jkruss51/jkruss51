@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @jkruss51
+- 👀 I’m interested in Java, C++ and XML with a side of SQL.
